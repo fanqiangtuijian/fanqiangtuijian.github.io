@@ -1,4 +1,4 @@
-# 免费VPN翻墙推荐 | 7月15日18.5M/S|免费SSR/V2ray/Clash/Shadowrocket订阅节点地址分享  更新时间 2025-07-15 09:52:38
+# 免费VPN翻墙推荐 | 7月21日19.1M/S|免费V2ray/SSR/Clash/Shadowrocket订阅节点地址分享  更新时间 2025-07-21 10:55:55
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiangtuijian.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://fanqiangtuijian.github.io/uploads/2025/07/0-20250715.yaml
-- https://fanqiangtuijian.github.io/uploads/2025/07/1-20250715.yaml
-- https://fanqiangtuijian.github.io/uploads/2025/07/2-20250715.yaml
-- https://fanqiangtuijian.github.io/uploads/2025/07/3-20250715.yaml
-- https://fanqiangtuijian.github.io/uploads/2025/07/4-20250715.yaml
+- https://fanqiangtuijian.github.io/uploads/2025/07/0-20250721.yaml
+- https://fanqiangtuijian.github.io/uploads/2025/07/1-20250721.yaml
+- https://fanqiangtuijian.github.io/uploads/2025/07/2-20250721.yaml
+- https://fanqiangtuijian.github.io/uploads/2025/07/3-20250721.yaml
+- https://fanqiangtuijian.github.io/uploads/2025/07/4-20250721.yaml
 
 ### V2ray订阅链接
 
-- https://fanqiangtuijian.github.io/uploads/2025/07/0-20250715.txt
-- https://fanqiangtuijian.github.io/uploads/2025/07/1-20250715.txt
-- https://fanqiangtuijian.github.io/uploads/2025/07/2-20250715.txt
-- https://fanqiangtuijian.github.io/uploads/2025/07/3-20250715.txt
-- https://fanqiangtuijian.github.io/uploads/2025/07/4-20250715.txt
+- https://fanqiangtuijian.github.io/uploads/2025/07/0-20250721.txt
+- https://fanqiangtuijian.github.io/uploads/2025/07/1-20250721.txt
+- https://fanqiangtuijian.github.io/uploads/2025/07/2-20250721.txt
+- https://fanqiangtuijian.github.io/uploads/2025/07/3-20250721.txt
+- https://fanqiangtuijian.github.io/uploads/2025/07/4-20250721.txt
 
 ### Sing-box订阅链接
 
-- https://fanqiangtuijian.github.io/uploads/2025/07/20250715.json
+- https://fanqiangtuijian.github.io/uploads/2025/07/20250721.json
 
 ## 更多clash节点订阅 ：
 
